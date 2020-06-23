@@ -2,7 +2,7 @@
 YahooApi for stock prediction
 * This Repo consist of implementation of LSTM, ARIMA and Seasonal ARIMA
 * Data collection is done with the  Yahoo Api and Visualization is followed with the matplotlib
-*Testing For Stationarity using adfuller(#Ho: It is non stationary
+* Testing For Stationarity using adfuller(#Ho: It is non stationary
 #H1: It is stationary)
 
 > Got an Accuracy of:
