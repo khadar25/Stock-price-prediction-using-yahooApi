@@ -1,4 +1,4 @@
-# Stock-price-prediction-using-yahooApi
+# Stock Price Prediction Using LSTM, ARIMA and Seasonal ARIMA Models with YahooAPI
 YahooApi for stock prediction
 * This Repo consist of implementation of LSTM, ARIMA and Seasonal ARIMA
 * Data collection is done with the  Yahoo Api and Visualization is followed with the matplotlib
